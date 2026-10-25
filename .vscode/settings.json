@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "search.exclude": {
+    "**/Library": true,
+    "**/Temp": true,
+    "**/Obj": true,
+    "**/Build": true,
+    "**/Builds": true,
+    "**/Logs": true,
+    "**/UserSettings": true
+  }
+}

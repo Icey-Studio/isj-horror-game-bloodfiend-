@@ -1,0 +1,21 @@
+{
+    "name": "Bloodfiend.UI",
+    "rootNamespace": "Bloodfiend.UI",
+    "references": [
+        "Bloodfiend.Core",
+        "Bloodfiend.Gameplay",
+        "Bloodfiend.Interaction",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+
